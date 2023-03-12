@@ -1,7 +1,7 @@
-### 배운 내용 기록
+### I'm currently learning ...
 - [wiki-repo](https://github.com/yoodongan/wiki-repo)
 
-### 알고리즘 공부
+### Algroithm
 - [알고리즘](https://github.com/yoodongan/preparing-for-the-coding-test)
 
 <!--
