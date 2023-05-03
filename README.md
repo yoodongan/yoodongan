@@ -1,8 +1,14 @@
-### I'm currently learning ...
-- [wiki-repo](https://github.com/yoodongan/wiki-repo)
+### 📝 Wiki Log
+학습하고 공부한 내용들을 기록합니다. 
+- [Wiki Log](https://ryu.oopy.io/)
 
-### Algroithm
-- [알고리즘](https://github.com/yoodongan/preparing-for-the-coding-test)
+
+### 📊 Stats      
+
+![dongan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodongan&show_icons=true&theme=transparent)
+
+
+
 
 <!--
 **yoodongan/yoodongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
